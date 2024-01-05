@@ -1,0 +1,3 @@
+function wordPlay(string) {
+    return
+}

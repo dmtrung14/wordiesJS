@@ -1,0 +1,11 @@
+{
+  "name": "wordiesjs",
+  "version": "1.0.0",
+  "description": "a npm package for all kinds of wordplay and word manipulations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Trung Dang",
+  "license": "MIT"
+}
