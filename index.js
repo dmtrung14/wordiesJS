@@ -1,3 +1,3 @@
 function wordPlay(string) {
-    return
+    return string
 }
