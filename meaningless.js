@@ -1,4 +1,4 @@
-function spitOut(string) {
+function repeat(string) {
     return string;
 }
 
@@ -25,5 +25,5 @@ function replace(string, search, replace) {
 
 
 module.exports = {
-    spitOut, trim, toUpperCase, toLowerCase, reverse, replace
+    repeat, trim, toUpperCase, toLowerCase, reverse, replace
 }
