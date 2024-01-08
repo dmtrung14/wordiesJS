@@ -1,4 +1,3 @@
-const dictionary = require('./data/oxford3000.js')
 const categorizedDictionary3000 = require('./data/oxford3000initial.json')
 const categorizedDictionary5000 = require('./data/oxford5000initial.json')
 const {capitalize} = require('./lint.js')
