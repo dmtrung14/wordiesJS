@@ -1,6 +1,6 @@
 {
   "name": "wordiesjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a npm package for all kinds of wordplay and word manipulations",
   "main": "index.js",
   "scripts": {
