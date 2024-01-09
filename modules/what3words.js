@@ -1,4 +1,4 @@
-const dictionary = require('./data/oxford3000')
+const dictionary = require('../data/oxford3000')
 
 
 async function what3word(lat, lng) {

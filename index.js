@@ -1,19 +1,19 @@
 const {
     repeat, trim, toUpperCase, toLowerCase, reverse, replace
-} = require('./meaningless.js')
+} = require('./modules/meaningless.js')
 
-const what3word = require('./what3words.js')
+const what3word = require('./modules/what3words.js')
 
 const {
     expandAbbrev, 
     toInitial
-} = require('./abbrev.js')
+} = require('./modules/abbrev.js')
 
 const {
     camelCase, capitalize, kebabCase, snakeCase, startCase
-} = require('./lint.js')
+} = require('./modules/lint.js')
 
-const {randomWord, randomWords} = require('./random.js')
+const {randomWord, randomWords} = require('./modules/random.js')
 
 const {
     dadJoke
